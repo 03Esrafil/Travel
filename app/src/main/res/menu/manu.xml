@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tab_home"
+        android:icon="@drawable/explore"
+        android:title="Explore" />
+
+
+    <item
+        android:id="@+id/bookmark"
+        android:icon="@drawable/mytrip"
+        android:title="Wishlist" />
+    <item
+        android:id="@+id/post"
+        android:icon="@drawable/profile"
+        android:title="profile" />
+</menu>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color_palette_3">#58E1F3</color>
+    <color name="color_palette_2">#2552E4</color>
+    <color name="color_palette_1">#006DCB</color>
+    <color name="color_palette_4">#9FD1F6</color>
+    <color name="Navigation_bar">#3F5A9E</color>
+    <color name="background1">#EFF2F3</color>
+    <color name="button">#2690DE</color>
+    <color name="background2">#F4FBFD</color>
+    <color name="color_text_slide_manu_1">#FFFFFF</color>
+    <color name="color_text_slide_manu_2">#B9D0F6</color>
+    <color name="color_text_slide_manu_3">#000000</color>
+    <color name="start_color">#4D9FC5</color>
+    <color name="center_color">#DBEFF9</color>
+    <color name="end_color">#E9F4FA</color>
+    <color name="price">#EEF60606</color>
+
+</resources>
